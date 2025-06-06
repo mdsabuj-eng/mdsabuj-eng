@@ -1,4 +1,22 @@
-## Hi there 👋
+### Hi there, I'm Sabuj 👋
+
+🎯 Aspiring Data Analyst | BSc in EEE  
+🧠 Currently working on real-world projects to master:  
+- SQL (HackerRank Certified ✅)  
+- Excel (VLOOKUP, IF, PivotTables)  
+- Power BI (Dashboards, KPI Cards, DAX)
+
+🚀 My Projects:
+- ✅ [Sales KPI Dashboard – SQL + Power BI](https://github.com/mdsabuj-eng)
+- ✅ [Customer Review Sentiment Analysis](https://github.com/mdsabuj-eng)
+- ✅ [Product Sales Forecasting](https://github.com/mdsabuj-eng)
+
+📫 Reach me on:
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [GitHub](https://github.com/mdsabuj-eng)
+
+💡 Always learning, always building.
+
 
 <!--
 **mdsabuj-eng/mdsabuj-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
