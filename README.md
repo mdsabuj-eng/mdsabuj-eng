@@ -1,4 +1,4 @@
-### Hi there, I'm Sabuj 👋
+### Hi there, I'm Md.Nurul Amin Sabuj 👋
 
 🎯 Aspiring Data Analyst | BSc in EEE  
 🧠 Currently working on real-world projects to master:  
