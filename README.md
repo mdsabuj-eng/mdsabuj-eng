@@ -1,34 +1,33 @@
-### Hi there, I'm Md.Nurul Amin Sabuj 👋
+# 👋 Hi, I'm MD Nurul Amin
 
-🎯 Aspiring Data Analyst | BSc in EEE  
-🧠 Currently working on real-world projects to master:  
-- SQL (HackerRank Certified ✅)  
-- Excel (VLOOKUP, IF, PivotTables)  
-- Power BI (Dashboards, KPI Cards, DAX)
+## Data Analyst | SQL • Python • Excel • Power Query • Power BI
 
-🚀 My Projects:
-- ✅ [Sales KPI Dashboard – SQL + Power BI](https://github.com/mdsabuj-eng)
-- ✅ [Customer Review Sentiment Analysis](https://github.com/mdsabuj-eng)
-- ✅ [Product Sales Forecasting](https://github.com/mdsabuj-eng)
+I'm passionate about turning raw data into meaningful business insights through data analysis and interactive dashboards.
 
-📫 Reach me on:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [GitHub](https://github.com/mdsabuj-eng)
+Currently working as an **RS Operations Executive** at **Banglalink (Interspeed Marketing Solutions Ltd.)**, where I work with operational data, reporting, and business analysis.
 
-💡 Always learning, always building.
+## 🛠️ Skills
+
+- SQL (PostgreSQL)
+- Python (Pandas, NumPy, Matplotlib)
+- Microsoft Excel
+- Power Query
+- Power BI (DAX, Data Modeling, Dashboards)
+
+## 📂 Featured Projects
+
+### 📊 Pickaboo Business Intelligence Dashboard
+- Excel & Power Query for data preparation
+- PostgreSQL for business analysis
+- Power BI dashboard with KPI reporting and interactive visualizations
 
 
-<!--
-**mdsabuj-eng/mdsabuj-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More projects coming soon...
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+- Portfolio: https://YOUR-GOOGLE-SITE
