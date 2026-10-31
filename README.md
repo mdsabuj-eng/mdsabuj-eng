@@ -29,5 +29,5 @@ More projects coming soon...
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK
-- Portfolio: https://YOUR-GOOGLE-SITE
+- LinkedIn: https://www.linkedin.com/in/nurulamin111
+- Portfolio: https://mdsabuj-eng.github.io/nurul-amin-portfolio/
